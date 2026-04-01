@@ -7,3 +7,18 @@ git config --list
 
 리눅스 명령어
 vi에디터 화면이 나오면 j(아래), k(위), q(편집화면 탈출)
+
+
+2교시
+다른 사람의 원격리포지토리를 클론 후 새파일 추가 또는 기존파일 편집 후 로컬리포지토리에 커밋
+
+원 저작자와 바인딩된 원격리포지토리 주소를 내 원격리포지토리 주소로 업데이트
+
+확인 git remote -v
+삭제 git remote remove origin
+등록 git remote add origin 내가만든원격리포지토리주소
+확인 git remote -v
+
+업로드 git push
+오류발생? (새로 만든 깃 리모트 리포지토리 주소와 바인딩 필요)
+업로드 git push -u origin main
