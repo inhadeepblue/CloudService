@@ -9,3 +9,32 @@ ping -t ip주소 또는 url주소
 
 
 2교시
+
+복습
+
+<Branch 만들고 이동하기>
+1. git branch temp01 -> git switch temp01
+2. git checkout -b temp02
+3. git switch -c temp03
+
+
+<파일 만들고 수정>
+1. touch 1.txt / cat 1.txt
+2. vi 1.txt
+3. nano 3.txt
+4. echo "문장" >> 4.txt
+
+----
+
+<충돌>
+
+각 브랜치에 test제목 파일 여러 개 생성 -> 제목 같아서 충돌
+
+git merge 파일이름 (브랜치 합치기)
+
+git commit -m --amend "내용" (브랜치명 바꾸기)
+
+3교시
+
+포크해서 내용 정리하기
+
