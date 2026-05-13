@@ -1,11 +1,23 @@
 1교시
 10주차 복습
+vi 에디터 명령어
+u(되돌리기)
 
 명령어
 ipconfig
 ping ip주소 또는 url주소
 ping -t ip주소 또는 url주소
 
+편집기로 새 파일 만들기
+1.touch
+2.nano 
+con+x (편집기 나가기) con+o (내용 저장)
+3.vi에디터
+4.echo
 
 
 2교시
+echo "내용" >> 파일명
+
+3교시
+fork해서 내용 바꾸기
