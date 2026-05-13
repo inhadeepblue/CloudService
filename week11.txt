@@ -28,4 +28,4 @@ test.txt 파일 내용을 수정함
 
 
 3교시
-pork, clone 이용해서 배운 내용 작성
+fork, clone 이용해서 배운 내용 작성
