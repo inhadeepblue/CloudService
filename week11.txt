@@ -7,5 +7,21 @@ ping ip주소 또는 url주소
 ping -t ip주소 또는 url주소
 
 
-
 2교시
+브랜치 생성 방법
+git branch _
+git checkout -b _
+git switch -c _
+
+메모 추가 및 내용작성
+echo "_" >> _.txt
+nano _.txt (^o + enter 내용저장 및 확인, ^x 종료)
+vi _.txt
+touch _.txt -> vi _.txt
+
+브랜치 생성, 병합, 충돌 해결
+
+
+3교시
+fork 해온뒤에 내용 편집 후 요청 올리기
+오늘 배운 부분 요약해보기 실습
