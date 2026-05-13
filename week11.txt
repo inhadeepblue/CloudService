@@ -7,7 +7,6 @@ ping ip주소 또는 url주소
 ping -t ip주소 또는 url주소
 
 
-
 2교시
 git branch _
 git checkout -b _
