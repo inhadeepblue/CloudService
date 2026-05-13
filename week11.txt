@@ -9,3 +9,14 @@ ping -t ip주소 또는 url주소
 
 
 2교시
+echo "_" >> _.txt
+nano _.txt
+vi _.txt
+touch _.txt -> vi _.txt
+
+브랜치 생성, 편집 후 스테이지 올리기
+브랜치 합치기, 충돌 해결
+
+
+3교시
+fork로 편집 후 요청 올리기
